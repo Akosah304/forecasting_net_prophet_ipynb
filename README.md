@@ -149,6 +149,22 @@ To do so, complete the following steps:
 
 ![Fig. 9](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%209.png)
 
-## Fig. 9
+## Fig. 10
 
 ![Fig. 10](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2010.png)
+
+## Fig. 11
+
+![Fig. 11](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2011.png)
+
+## Fig. 12
+
+![Fig. 12](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2012.png)
+
+## Fig. 13
+
+![Fig. 13](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2013.png)
+
+## Fig. 14
+
+![Fig. 14](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2014.png)
