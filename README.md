@@ -114,48 +114,56 @@ To do so, complete the following steps:
    
 # Images
 ## Fig. 1
+Plot to visualize the data for May 2020
 
 ![Fig. 1](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%201.png)
 
 ## Fig. 2
-Plots to show a level of seasonality in search traffic data
+ Plot the average traffic by the day of week
 
 ![Fig. 2](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%202.png)
 
 ## Fig. 3
-Plots to show a level of seasonality in search traffic data
+Plot to visualize the hour of the day and day of week search traffic as a heatmap.
 
 ![Fig. 3](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%203.png)
 
 ## Fig. 4
+Plot the average traffic by the week of the year
 
 ![Fig. 4](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%204.png)
 
 ## Fig. 5
+Plot to visualize the closing price of the df_mercado_stock DataFrame
 
 ![Fig. 5](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%205.png)
 
 ## Fig. 6
+Plot to visualize the close data
 
 ![Fig. 6](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%206.png)
 
 ## Fig. 7
+Plot to visualize the Search Trends data
 
 ![Fig. 7](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%207.png)
 
 ## Fig. 8
+Plot to visualize the stock volatility
 
 ![Fig. 8](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%208.png)
 
 ## Fig. 9
+Plot the Prophet predictions for the Mercado trends data
 
 ![Fig. 9](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%209.png)
 
 ## Fig. 10
-
+Plot to visualize the forecast_mercado_trends DataFrame
 ![Fig. 10](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2010.png)
 
 ## Fig. 11
+Plot components function to visualize the forecast results
 
 ![Fig. 11](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2011.png)
 
@@ -164,9 +172,11 @@ Plots to show a level of seasonality in search traffic data
 ![Fig. 12](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2012.png)
 
 ## Fig. 13
+Plot components function to analyze seasonal patterns in the company's revenue
 
 ![Fig. 13](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2013.png)
 
 ## Fig. 14
+Plot the predictions for the Mercado sales
 
 ![Fig. 14](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2014.png)
