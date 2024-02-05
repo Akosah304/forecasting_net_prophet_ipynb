@@ -118,10 +118,12 @@ To do so, complete the following steps:
 ![Fig. 1](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%201.png)
 
 ## Fig. 2
+Plots to show a level of seasonality in search traffic data
 
 ![Fig. 2](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%202.png)
 
 ## Fig. 3
+Plots to show a level of seasonality in search traffic data
 
 ![Fig. 3](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%203.png)
 
