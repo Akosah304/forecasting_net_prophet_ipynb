@@ -168,6 +168,7 @@ Plot components function to visualize the forecast results
 ![Fig. 11](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2011.png)
 
 ## Fig. 12
+Plot to visualize the daily sales figures
 
 ![Fig. 12](https://github.com/Akosah304/forecasting_net_prophet_ipynb/blob/main/Starter_Code/Image/bokeh_plot%2012.png)
 
